@@ -1,0 +1,18 @@
+---
+framework: bootstrap5
+layout: main
+---
+
+<br/><br/><br/><br/>
+<h2>Noticias</h2>
+<hr/>
+
+<div class="container">
+    <div class="row">
+        {% for noticia in site.data.noticias %}
+        <div class="col-6">
+        {% include list-item.html model=noticia %}
+        </div>
+        {% endfor %}
+    </div>
+</div>

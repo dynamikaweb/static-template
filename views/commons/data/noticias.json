@@ -1,0 +1,22 @@
+[
+    {
+        "titulo": "titulo primeira noticia",
+        "resumo": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce congue enim urna, in pharetra dolor sollicitudin sit amet. Duis scelerisque, velit ut blandit feugiat, lorem lectus lobortis mauris"
+    },
+    {
+        "titulo": "titulo primeira noticia 2",
+        "resumo": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce congue enim urna, in pharetra dolor sollicitudin sit amet. Duis scelerisque, velit ut blandit feugiat, lorem lectus lobortis mauris"
+    },
+    {
+        "titulo": "titulo primeira noticia 3",
+        "resumo": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce congue enim urna, in pharetra dolor sollicitudin sit amet. Duis scelerisque, velit ut blandit feugiat, lorem lectus lobortis mauris"
+    },
+    {
+        "titulo": "titulo primeira noticia 4",
+        "resumo": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce congue enim urna, in pharetra dolor sollicitudin sit amet. Duis scelerisque, velit ut blandit feugiat, lorem lectus lobortis mauris"
+    },
+    {
+        "titulo": "titulo primeira noticia 5",
+        "resumo": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce congue enim urna, in pharetra dolor sollicitudin sit amet. Duis scelerisque, velit ut blandit feugiat, lorem lectus lobortis mauris"
+    }
+]

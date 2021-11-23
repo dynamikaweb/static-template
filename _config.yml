@@ -1,0 +1,14 @@
+title: Static Template
+baseurl: /
+
+
+source: views
+data_dir: /commons/data
+includes_dir: /commons
+layouts_dir: /layouts
+
+plugins:
+  - jekyll-optional-front-matter
+  - jekyll-titles-from-headings
+  - jekyll-relative-links
+  - jekyll-redirect-from
